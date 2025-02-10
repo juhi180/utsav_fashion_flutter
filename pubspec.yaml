@@ -1,0 +1,78 @@
+name: fashion_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+  smooth_page_indicator: ^1.2.0+3
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: "^0.14.3"
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icons/img.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/img.png
+    - assets/icons/img_1.png
+    - assets/images/img.png
+    - assets/images/img_1.png
+    - assets/images/img_2.png
+    - assets/images/img_3.png
+    - assets/images/img_4.png
+    - assets/images/img_5.png
+    - assets/images/img_6.png
+    - assets/images/img_7.png
+    - assets/images/img_8.png
+    - assets/images/img_9.png
+    - assets/images/img_10.png
+    - assets/images/img_11.png
+    - assets/images/img_12.png
+    - assets/images/img_13.png
+    - assets/images/img_14.png
+    - assets/images/trending_pic1.png
+    - assets/images/trending_pic2.png
+    - assets/images/trending_pic3.png
+    - assets/images/fashion_man.png
+    - assets/images/fashion_wedding.png
+    - assets/images/fashion_pink.png
+    - assets/images/saree.png
+    - assets/images/kids.png
+    - assets/images/lehenga.png
+    - assets/images/indoor.png
+    - assets/images/men.png
+    - assets/images/gem_1.png
+    - assets/images/gem_2.png
+    - assets/images/gem_3.png
+    - assets/images/gem_4.png
+    - assets/images/shoes.png
+    - assets/images/sports.png
+    - assets/images/line.png
+    - assets/images/jewellery.png
+    - assets/images/post_1.png
+    - assets/images/post_2.png
+    - assets/images/post_3.png
+    - assets/images/post_4.png
+    - assets/images/post_5.png
+    - assets/images/post_6.png
+    - assets/images/post_7.png
+    - assets/images/post_8.png
+    - assets/images/post_9.png
+    - assets/images/post_10.png
+
+  fonts:
+    - family: Taviraj
+      fonts:
+        - asset: assets/fonts/Taviraj-Regular.ttf
